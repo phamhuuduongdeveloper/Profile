@@ -1,2 +1,1 @@
-# Profile
-profile
+Tool DDoS By Pham Huu Duong
