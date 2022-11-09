@@ -1,1 +1,1 @@
-Tool DDoS By Pham Huu Duong
+I'm Pham Huu Duong Developer
